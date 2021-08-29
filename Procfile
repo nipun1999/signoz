@@ -1,1 +1,1 @@
-release: bash ./deploy/install.sh
+web: cd frontend && yarn install && yarn dev
